@@ -1,0 +1,2 @@
+variable "resourcergs" {}
+variable "storageaccounts" {}
